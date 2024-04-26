@@ -1,1 +1,3 @@
-Hello this is my first file
+README
+----------------
+Contains information about the repository
